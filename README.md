@@ -39,8 +39,6 @@ run the  __run_ode.py__ file.
 
 # 6.Requirement
 
-This code runs in a Python 3.9.16 environment.
-
 * python 3.7
 * torch 1.7.0+cu101
 * torchdiffeq 0.2.2
